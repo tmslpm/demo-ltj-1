@@ -1,0 +1,17 @@
+{
+  "readme_____comment_____readme": "no configuration is needed in this file",
+  "mod_id": "immersiveengineering",
+  "mod_name": "Immersive Engineering",
+  "enabled": false,
+  "replace_structures": false,
+  "pool_plains": [
+  ],
+  "pool_desert": [
+  ],
+  "pool_snowy": [
+  ],
+  "pool_savanna": [
+  ],
+  "pool_taiga": [
+  ]
+}
